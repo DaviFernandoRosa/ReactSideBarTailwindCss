@@ -51,7 +51,6 @@ export default function  Sidebar() {
                     </div>
 
                 </div>
-
                 <div className="flex flex-row  mt-8">
                     <div>
                         <p className="text-gray-500 hover:text-purple-900"><i class=" mr-2 fa-solid fa-right-from-bracket"></i></p>
